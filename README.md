@@ -1,4 +1,4 @@
-# Developing-a-Neural-Network-Classification-Model-using-Transfer-Learning
+# EX 04 Developing-a-Neural-Network-Classification-Model-using-Transfer-Learning
 ## 📌 Overview
 
 This project develops an image classification model using Transfer Learning. A pre-trained deep learning model is used as the base, and its learned features are leveraged to classify new images with improved accuracy and reduced training time.
